@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "pa4-yulian-yih060", "pa4-yulian-yih060.mdproj", "{B32D3D51-2F86-41F5-968C-B58B9D1D455C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32D3D51-2F86-41F5-968C-B58B9D1D455C}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{B32D3D51-2F86-41F5-968C-B58B9D1D455C}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal
